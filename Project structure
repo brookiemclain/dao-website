@@ -1,0 +1,8 @@
+dao-website/
+├─ app/
+│  └─ page.jsx
+├─ public/
+│  └─ favicon.ico
+├─ package.json
+├─ next.config.js
+└─ README.md
